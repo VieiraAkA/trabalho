@@ -18,7 +18,7 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class TrabalhoJoaoTiago extends Application {
+public class Main extends Application {
     Login login = new Login("admin", "123", "João", "Vieira", "vjo@ipvc.pt", 123456789, 912123123, "morada");
     Login aux = new Login();
     
